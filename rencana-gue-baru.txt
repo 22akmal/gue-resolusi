@@ -6,3 +6,4 @@ Rencana perubahan yang baru
   * Dashboard
 - SQL
 - Tableau
+- Data Engineer
