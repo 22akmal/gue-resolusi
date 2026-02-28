@@ -5,6 +5,7 @@ Rencana perubahan yang baru
   * Power Query
   * Dashboard
 - SQL
+ * Relational Database
 - Tableau
  * Data Visualization
 - Data Engineer
