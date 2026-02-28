@@ -3,7 +3,6 @@ Rencana perubahan yang baru
 - Microsoft Excel
   * Rumus
   * Power Query
-  * Dashboard
 - SQL
  * Relational Database
 - Tableau
