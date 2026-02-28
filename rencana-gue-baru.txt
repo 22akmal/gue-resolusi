@@ -3,7 +3,8 @@ Rencana perubahan yang baru
 - Microsoft Excel
   * Rumus
   * Power Query
-  * Dashboard
 - SQL
 - Tableau
 - Data Engineer
+ * Python
+ * Data Structure
