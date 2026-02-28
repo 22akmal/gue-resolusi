@@ -1,0 +1,5 @@
+Rencana perubahan yang baru
+
+- Microsoft Excel
+- SQL
+- Tableau
